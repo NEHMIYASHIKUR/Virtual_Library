@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\bin\Debug\WSGLIBRARY.exe.config
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\bin\Debug\WSGLIBRARY.exe
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\bin\Debug\WSGLIBRARY.pdb
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.exe
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.pdb
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.AddBooks.resources
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.DisplayBooks.resources
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.AddAuthor.resources
+C:\Users\hp\Documents\Visual Studio 2017\WSGLIBRARY\WSGLIBRARY\obj\Debug\WSGLIBRARY.DisplayAuthors.resources
